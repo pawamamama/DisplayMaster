@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DisplayMaster</string>
+
+    <!-- Home -->
+    <string name="tagline">将此设备用作电脑的第二块屏幕</string>
+    <string name="usb_title">USB</string>
+    <string name="usb_hint">将设备插入电脑。开启 USB 调试后，电脑会自动开始串流。</string>
+    <string name="usb_connect">通过 USB 连接</string>
+    <string name="wifi_title">Wi-Fi</string>
+    <string name="pc_address">电脑地址</string>
+    <string name="connect">连接</string>
+    <string name="on_this_network">此网络上的电脑</string>
+    <string name="recent">最近连接</string>
+    <string name="forget_host">忘记 %1$s</string>
+    <string name="wifi_hint">在电脑上的 DisplayMaster 中开启 Wi-Fi 连接后，这台电脑会自动出现在这里，也可以输入它显示的地址。</string>
+
+    <!-- Preferences -->
+    <string name="preferences">设置</string>
+    <string name="display">显示</string>
+    <string name="mode_extend">扩展</string>
+    <string name="mode_mirror">镜像</string>
+    <string name="finger_input">手指输入</string>
+    <string name="input_touch">触摸</string>
+    <string name="input_mouse">鼠标</string>
+    <string name="input_trackpad">触控板</string>
+    <string name="input_pad">触控板</string>
+    <string name="frame_rate">帧率</string>
+    <string name="hz">%1$d Hz</string>
+    <string name="overlay_title">性能浮层</string>
+    <string name="overlay_subtitle">串流时的帧率、码率和延迟</string>
+    <string name="gestures_title">滚动 &amp; 缩放手势</string>
+    <string name="gestures_subtitle">触摸模式：双指滚动或捏合缩放，三指滑动：向上打开任务视图，向下显示桌面，左右切换应用</string>
+    <string name="autoconnect_title">自动连接</string>
+    <string name="autoconnect_subtitle">当应用已打开，且之前连接过的电脑位于此 Wi-Fi 网络中时</string>
+    <string name="shortcuts_title">快捷栏</string>
+    <string name="shortcuts_subtitle">撤销、Ctrl、空格键、笔刷大小……串流时显示在左边缘</string>
+    <string name="pen_detected">检测到笔：压感、倾斜、悬停和侧键均可在 Windows Ink 应用中使用。</string>
+
+    <!-- Errors and dialogs -->
+    <string name="connection_lost">连接已断开</string>
+    <string name="dismiss">关闭</string>
+    <string name="retry">重试</string>
+    <string name="cancel">取消</string>
+    <string name="pair_title">与电脑配对</string>
+    <string name="pair_text">请确认电脑上的 DisplayMaster 显示相同代码，以保证连接私密。</string>
+    <string name="codes_match">代码一致</string>
+    <string name="codes_differ">代码不一致</string>
+    <string name="confirm_title">在电脑上确认</string>
+    <string name="confirm_code">如果电脑上显示的代码相同，请点击“允许”。</string>
+    <string name="confirm_first_time">首次通过 Wi-Fi 连接时，电脑上的 DisplayMaster 会请求允许此设备。</string>
+    <string name="reconnecting_title">正在重新连接</string>
+    <string name="reconnecting_text">与 %1$s 的连接已断开，正在重试 (%2$d)…</string>
+    <string name="your_pc">你的电脑</string>
+    <string name="connecting_title">正在连接</string>
+    <string name="reaching_usb">正在通过 USB 连接你的电脑…</string>
+    <string name="reaching">正在连接 %1$s…</string>
+
+    <!-- Messages from the connection (native client / PC) -->
+    <string name="err_cant_reach">无法连接 %1$s，电脑上是否正在运行 DisplayMaster？</string>
+    <string name="err_cant_resolve">找不到 %1$s</string>
+    <string name="err_pc_closed">电脑关闭了连接</string>
+    <string name="err_pc_outdated">电脑上的 DisplayMaster 版本过旧，无法支持加密 Wi-Fi：请更新电脑上的 DisplayMaster</string>
+    <string name="err_secure_failed">与电脑建立安全连接失败</string>
+    <string name="err_verification">来自电脑的数据验证失败</string>
+    <string name="err_corrupt">来自电脑的数据已损坏</string>
+    <string name="err_unexpected">收到来自电脑的意外回复</string>
+    <string name="err_decode">此设备无法解码该视频格式</string>
+    <string name="err_pairing_cancelled">配对已取消</string>
+    <string name="err_not_approved">电脑端未批准</string>
+    <string name="err_kicked">与电脑的连接已断开</string>
+    <string name="err_app_outdated">请更新此设备上的 DisplayMaster 应用，以便通过 Wi-Fi 连接</string>
+    <string name="err_version">DisplayMaster 版本不匹配：请更新两台设备上的应用</string>
+    <string name="err_no_video">电脑无法启动视频流：请查看电脑上的日志</string>
+
+    <!-- Stream quick panel -->
+    <string name="connected">已连接</string>
+    <string name="your_pc_title">你的电脑</string>
+    <string name="lock_rotation">锁定屏幕旋转</string>
+    <string name="show_keyboard">显示键盘</string>
+    <string name="hide_keyboard">隐藏键盘</string>
+    <string name="disconnect">断开连接</string>
+
+    <!-- Shortcut bar -->
+    <string name="sc_hide">隐藏</string>
+    <string name="sc_undo">撤销</string>
+    <string name="sc_redo">重做</string>
+    <string name="sc_brush_smaller">笔刷 −</string>
+    <string name="sc_brush_bigger">笔刷 +</string>
+    <string name="sc_zoom_in">放大</string>
+    <string name="sc_zoom_out">缩小</string>
+    <string name="sc_escape">Esc</string>
+    <string name="sc_locked">已锁定</string>
+    <string name="key_ctrl">Ctrl</string>
+    <string name="key_shift">Shift</string>
+    <string name="key_alt">Alt</string>
+    <string name="key_space">空格</string>
+
+    <!-- Moving PC windows onto this screen -->
+    <string name="sc_window">窗口</string>
+    <string name="pull_window">拉窗口到这里</string>
+    <string name="choose_window">选择…</string>
+    <string name="windows_title">你电脑上的窗口</string>
+    <string name="windows_hint">点击窗口将其移到本屏幕上</string>
+    <string name="windows_elsewhere">在其他屏幕上</string>
+    <string name="windows_here">在本屏幕上</string>
+    <string name="windows_none">没有其他窗口打开</string>
+    <string name="window_minimized">已最小化</string>
+    <string name="send_back">送回</string>
+    <string name="windows_tip">在电脑上，Ctrl+Alt+Win+→ 可将活动窗口发送到此处</string>
+    <string name="move_here">已将“%1$s”移到此处</string>
+    <string name="move_back">已将“%1$s”送回</string>
+    <string name="move_nothing">其他屏幕上没有窗口</string>
+    <string name="move_gone">该窗口已关闭</string>
+    <string name="move_denied">只有 DisplayMaster 以管理员身份运行时，才能移动管理员窗口</string>
+    <string name="move_not_responding">“%1$s”无响应</string>
+    <string name="move_not_extended">移动窗口需要扩展模式</string>
+    <string name="move_failed">无法移动窗口</string>
+</resources>

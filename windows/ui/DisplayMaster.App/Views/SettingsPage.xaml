@@ -5,8 +5,8 @@
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
     xmlns:local="using:DisplayMaster.Views">
 
-    <ScrollViewer>
-        <StackPanel MaxWidth="1040" Padding="40,28,40,40" Spacing="16">
+    <ScrollViewer HorizontalScrollMode="Disabled" HorizontalScrollBarVisibility="Disabled" HorizontalContentAlignment="Center">
+        <StackPanel MaxWidth="1000" Padding="32,28,32,40" Spacing="16" HorizontalAlignment="Center">
             <StackPanel Spacing="2">
                 <TextBlock x:Uid="SettingsPage_1" Style="{StaticResource TitleTextBlockStyle}" />
                 <TextBlock x:Uid="SettingsPage_2" Foreground="{ThemeResource TextFillColorSecondaryBrush}" />

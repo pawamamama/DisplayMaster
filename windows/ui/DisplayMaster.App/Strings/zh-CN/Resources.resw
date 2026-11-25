@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype"><value>text/microsoft-resx</value></resheader>
+  <resheader name="version"><value>2.0</value></resheader>
+  <resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader>
+  <resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader>
+  <data name="MainWindow_1.Content" xml:space="preserve">
+    <value>设备</value>
+  </data>
+  <data name="MainWindow_2.Content" xml:space="preserve">
+    <value>笔 &amp; 触摸</value>
+  </data>
+  <data name="MainWindow_3.Content" xml:space="preserve">
+    <value>连接</value>
+  </data>
+  <data name="MainWindow_4.Title" xml:space="preserve">
+    <value>有可用更新</value>
+  </data>
+  <data name="MainWindow_5.Content" xml:space="preserve">
+    <value>立即更新</value>
+  </data>
+  <data name="MainWindow_6.Content" xml:space="preserve">
+    <value>更新内容</value>
+  </data>
+  <data name="MainWindow_7.Content" xml:space="preserve">
+    <value>稍后</value>
+  </data>
+  <data name="DevicesPage_1.Text" xml:space="preserve">
+    <value>设备</value>
+  </data>
+  <data name="DevicesPage_2.Title" xml:space="preserve">
+    <value>DisplayMaster 引擎未运行</value>
+  </data>
+  <data name="DevicesPage_2.Message" xml:space="preserve">
+    <value>正在启动…如果问题仍然存在，请重新安装 DisplayMaster。</value>
+  </data>
+  <data name="DevicesPage_3.Title" xml:space="preserve">
+    <value>在你的设备上允许 USB 调试</value>
+  </data>
+  <data name="DevicesPage_3.Message" xml:space="preserve">
+    <value>解锁平板电脑或手机，然后在“允许 USB 调试？”提示中点击“允许”。</value>
+  </data>
+  <data name="DevicesPage_4.Title" xml:space="preserve">
+    <value>扩展模式需要虚拟显示器驱动程序</value>
+  </data>
+  <data name="DevicesPage_4.Message" xml:space="preserve">
+    <value>在安装之前，设备只会镜像你的主屏幕。</value>
+  </data>
+  <data name="DevicesPage_5.Content" xml:space="preserve">
+    <value>如何安装</value>
+  </data>
+  <data name="DevicesPage_6.Title" xml:space="preserve">
+    <value>在未获得管理员权限的情况下运行</value>
+  </data>
+  <data name="DevicesPage_6.Message" xml:space="preserve">
+    <value>笔和触摸无法作用于以管理员身份运行的应用，显示设置可能为只读。</value>
+  </data>
+  <data name="DevicesPage_7.Content" xml:space="preserve">
+    <value>以管理员身份重启</value>
+  </data>
+  <data name="DevicesPage_8.Text" xml:space="preserve">
+    <value>连接平板电脑或手机</value>
+  </data>
+  <data name="DevicesPage_9.Text" xml:space="preserve">
+    <value>在 Android 设备上安装 DisplayMaster，然后选择连接方式。</value>
+  </data>
+  <data name="DevicesPage_10.Text" xml:space="preserve">
+    <value>USB（最快）</value>
+  </data>
+  <data name="DevicesPage_11.Text" xml:space="preserve">
+    <value>1. 在开发者选项中开启 USB 调试。</value>
+  </data>
+  <data name="DevicesPage_12.Text" xml:space="preserve">
+    <value>2. 将设备连接到此电脑。</value>
+  </data>
+  <data name="DevicesPage_13.Text" xml:space="preserve">
+    <value>3. 就这样：应用会自动打开并完成连接。</value>
+  </data>
+  <data name="DevicesPage_14.Text" xml:space="preserve">
+    <value>Wi-Fi</value>
+  </data>
+  <data name="DevicesPage_15.Text" xml:space="preserve">
+    <value>1. 在“连接”页面上允许 Wi-Fi 连接。</value>
+  </data>
+  <data name="DevicesPage_16.Text" xml:space="preserve">
+    <value>2. 在应用中输入此电脑的地址：</value>
+  </data>
+  <data name="DevicesPage_17.Text" xml:space="preserve">
+    <value>笔</value>
+  </data>
+  <data name="DevicesPage_18.Text" xml:space="preserve">
+    <value>断开连接</value>
+  </data>
+  <data name="DevicesPage_19.Header" xml:space="preserve">
+    <value>位置</value>
+  </data>
+  <data name="DevicesPage_20.Text" xml:space="preserve">
+    <value>帧 / s</value>
+  </data>
+  <data name="DevicesPage_21.Text" xml:space="preserve">
+    <value>Mbit / s</value>
+  </data>
+  <data name="DevicesPage_22.Text" xml:space="preserve">
+    <value>ms 采集 + 编码</value>
+  </data>
+  <data name="DevicesPage_23.Text" xml:space="preserve">
+    <value>ms 设备端解码</value>
+  </data>
+  <data name="PenPage_1.Text" xml:space="preserve">
+    <value>笔 &amp; 触摸</value>
+  </data>
+  <data name="PenPage_2.Text" xml:space="preserve">
+    <value>立即应用到所有已连接的设备。</value>
+  </data>
+  <data name="PenPage_3.Text" xml:space="preserve">
+    <value>压感</value>
+  </data>
+  <data name="PenPage_4.Text" xml:space="preserve">
+    <value>忽略低于此值的轻压</value>
+  </data>
+  <data name="PenPage_5.Text" xml:space="preserve">
+    <value>当笔尖只是轻触屏幕时，避免留下误触的笔迹。</value>
+  </data>
+  <data name="PenPage_6.Text" xml:space="preserve">
+    <value>达到满压时的笔压</value>
+  </data>
+  <data name="PenPage_7.Text" xml:space="preserve">
+    <value>调低此值，无需用力按压即可画出最粗的笔迹。</value>
+  </data>
+  <data name="PenPage_8.Text" xml:space="preserve">
+    <value>手感</value>
+  </data>
+  <data name="PenPage_9.Text" xml:space="preserve">
+    <value>更软</value>
+  </data>
+  <data name="PenPage_10.Text" xml:space="preserve">
+    <value>更硬</value>
+  </data>
+  <data name="PenPage_11.Content" xml:space="preserve">
+    <value>重置为默认值</value>
+  </data>
+  <data name="PenPage_12.Text" xml:space="preserve">
+    <value>轻</value>
+  </data>
+  <data name="PenPage_13.Text" xml:space="preserve">
+    <value>笔压</value>
+  </data>
+  <data name="PenPage_14.Text" xml:space="preserve">
+    <value>重</value>
+  </data>
+  <data name="PenPage_15.Text" xml:space="preserve">
+    <value>兼容的应用</value>
+  </data>
+  <data name="PenPage_16.Text" xml:space="preserve">
+    <value>压感、倾斜、悬停以及笔身侧键可通过 Windows Ink 传递给应用：Photoshop、Krita、Clip Studio Paint、OneNote、Illustrator、Blender 等。侧键相当于右键；笔尾的橡皮擦在支持的应用中可用于擦除。</value>
+  </data>
+  <data name="PenPage_17.Text" xml:space="preserve">
+    <value>在设备上，可从快捷面板（从右侧边缘向内滑动）选择手指的操作方式：触摸、鼠标或触控板。当笔靠近屏幕时，触摸会被忽略，这样你可以把手掌放在屏幕上。</value>
+  </data>
+  <data name="ConnectionPage_1.Text" xml:space="preserve">
+    <value>连接</value>
+  </data>
+  <data name="ConnectionPage_2.Text" xml:space="preserve">
+    <value>USB</value>
+  </data>
+  <data name="ConnectionPage_3.Text" xml:space="preserve">
+    <value>延迟最低，无需进行网络设置。接入已启用 USB 调试的设备后会自动连接。</value>
+  </data>
+  <data name="ConnectionPage_4.Text" xml:space="preserve">
+    <value>USB 已就绪： </value>
+  </data>
+  <data name="ConnectionPage_5.Message" xml:space="preserve">
+    <value>未找到 Android platform-tools（adb），因此 USB 连接已关闭。请重新安装 DisplayMaster 或安装 platform-tools。</value>
+  </data>
+  <data name="ConnectionPage_6.Text" xml:space="preserve">
+    <value>Wi-Fi</value>
+  </data>
+  <data name="ConnectionPage_7.Text" xml:space="preserve">
+    <value>在同一网络中无需线缆即可连接。使用 5 GHz Wi-Fi 可获得最佳体验。仅对你信任的网络开启此功能。</value>
+  </data>
+  <data name="ConnectionPage_8.Text" xml:space="preserve">
+    <value>附近的设备会自动发现这台电脑。你也可以在应用中输入此地址：</value>
+  </data>
+  <data name="ConnectionPage_9.Text" xml:space="preserve">
+    <value>手机上还没有这个应用？</value>
+  </data>
+  <data name="ConnectionPage_10.Text" xml:space="preserve">
+    <value>用手机摄像头扫描此二维码，从这台电脑下载应用，然后打开文件安装。Android 可能会询问一次是否允许从浏览器安装。</value>
+  </data>
+  <data name="ConnectionPage_11.Text" xml:space="preserve">
+    <value>已允许的设备</value>
+  </data>
+  <data name="ConnectionPage_12.Content" xml:space="preserve">
+    <value>忘记</value>
+  </data>
+  <data name="ConnectionPage_13.OffContent" xml:space="preserve">
+    <value>关闭</value>
+  </data>
+  <data name="ConnectionPage_13.OnContent" xml:space="preserve">
+    <value>开启</value>
+  </data>
+  <data name="ConnectionPage_14.Text" xml:space="preserve">
+    <value>显示引擎</value>
+  </data>
+  <data name="ConnectionPage_15.Text" xml:space="preserve">
+    <value>虚拟显示驱动： </value>
+  </data>
+  <data name="ConnectionPage_16.Text" xml:space="preserve">
+    <value>管理员权限： </value>
+  </data>
+  <data name="ConnectionPage_17.Text" xml:space="preserve">
+    <value>端口： </value>
+  </data>
+  <data name="ConnectionPage_18.Content" xml:space="preserve">
+    <value>以管理员身份重启</value>
+  </data>
+  <data name="SettingsPage_1.Text" xml:space="preserve">
+    <value>设置</value>
+  </data>
+  <data name="SettingsPage_2.Text" xml:space="preserve">
+    <value>画面设置会立即应用到每台设备。</value>
+  </data>
+  <data name="SettingsPage_3.Text" xml:space="preserve">
+    <value>画面</value>
+  </data>
+  <data name="SettingsPage_4.Message" xml:space="preserve">
+    <value>该引擎启动时在命令行中带有画面选项，因此以这些选项为准。</value>
+  </data>
+  <data name="SettingsPage_5.Text" xml:space="preserve">
+    <value>质量</value>
+  </data>
+  <data name="SettingsPage_6.Text" xml:space="preserve">
+    <value>自动模式根据分辨率、帧率和连接方式选择码率（USB 下比 Wi-Fi 下更高）。</value>
+  </data>
+  <data name="SettingsPage_7.OffContent" xml:space="preserve">
+    <value>固定</value>
+  </data>
+  <data name="SettingsPage_7.OnContent" xml:space="preserve">
+    <value>自动</value>
+  </data>
+  <data name="SettingsPage_8.Text" xml:space="preserve">
+    <value>码率</value>
+  </data>
+  <data name="SettingsPage_9.Text" xml:space="preserve">
+    <value>数值越高画面越清晰，文字和快速运动尤其明显。在 Wi-Fi 下，20-40 Mbit/s 通常是最佳区间。</value>
+  </data>
+  <data name="SettingsPage_10.Text" xml:space="preserve">
+    <value>帧率</value>
+  </data>
+  <data name="SettingsPage_11.Text" xml:space="preserve">
+    <value>最高不超过设备屏幕所能显示的帧率。</value>
+  </data>
+  <data name="SettingsPage_12.Text" xml:space="preserve">
+    <value>分辨率</value>
+  </data>
+  <data name="SettingsPage_13.Text" xml:space="preserve">
+    <value>扩展屏幕相对于设备屏幕的大小。</value>
+  </data>
+  <data name="SettingsPage_14.Text" xml:space="preserve">
+    <value>视频格式</value>
+  </data>
+  <data name="SettingsPage_15.Text" xml:space="preserve">
+    <value>当电脑和设备都支持该格式时使用；否则使用次优格式。</value>
+  </data>
+  <data name="SettingsPage_16.Text" xml:space="preserve">
+    <value>登录时启动</value>
+  </data>
+  <data name="SettingsPage_17.Text" xml:space="preserve">
+    <value>DisplayMaster 在通知区域待命，设备可立即连接。关闭后：仅在应用打开时运行。</value>
+  </data>
+  <data name="SettingsPage_18.Text" xml:space="preserve">
+    <value>连接通知</value>
+  </data>
+  <data name="SettingsPage_19.Text" xml:space="preserve">
+    <value>设备连接或断开连接时显示 Windows 通知。</value>
+  </data>
+  <data name="SettingsPage_20.Content" xml:space="preserve">
+    <value>检查更新</value>
+  </data>
+  <data name="SettingsPage_21.Content" xml:space="preserve">
+    <value>打开日志文件夹</value>
+  </data>
+  <data name="SettingsPage_22.Content" xml:space="preserve">
+    <value>项目主页</value>
+  </data>
+  <data name="Notify_Connected" xml:space="preserve">
+    <value>{0} 已连接</value>
+  </data>
+  <data name="Notify_DisconnectedText" xml:space="preserve">
+    <value>扩展屏已断开，窗口已移回原位。</value>
+  </data>
+  <data name="Notify_Disconnected" xml:space="preserve">
+    <value>{0} 已断开连接</value>
+  </data>
+  <data name="Tray_OneDevice" xml:space="preserve">
+    <value>DisplayMaster – 已连接 1 台设备</value>
+  </data>
+  <data name="Tray_Devices" xml:space="preserve">
+    <value>DisplayMaster – 已连接 {0} 台设备</value>
+  </data>
+  <data name="Tray_NoDevices" xml:space="preserve">
+    <value>未连接任何设备</value>
+  </data>
+  <data name="Tray_Disconnect" xml:space="preserve">
+    <value>断开与 {0} 的连接</value>
+  </data>
+  <data name="Tray_Open" xml:space="preserve">
+    <value>打开 DisplayMaster</value>
+  </data>
+  <data name="Tray_Settings" xml:space="preserve">
+    <value>设置</value>
+  </data>
+  <data name="Tray_Quit" xml:space="preserve">
+    <value>退出</value>
+  </data>
+  <data name="Approve_Remember" xml:space="preserve">
+    <value>记住此设备</value>
+  </data>
+  <data name="Approve_Text" xml:space="preserve">
+    <value>{0}（{1}）从 {2} 通过 Wi-Fi 请求将这台电脑用作显示屏。允许的设备可以看到此屏幕并控制鼠标和键盘。</value>
+  </data>
+  <data name="Approve_Code" xml:space="preserve">
+    <value>仅当设备显示相同的验证码时才允许：</value>
+  </data>
+  <data name="Approve_Title" xml:space="preserve">
+    <value>允许此设备连接？</value>
+  </data>
+  <data name="Approve_Allow" xml:space="preserve">
+    <value>允许</value>
+  </data>
+  <data name="Approve_Deny" xml:space="preserve">
+    <value>拒绝</value>
+  </data>
+  <data name="Tray_StillRunning" xml:space="preserve">
+    <value>DisplayMaster 仍在运行</value>
+  </data>
+  <data name="Tray_StillRunningText" xml:space="preserve">
+    <value>已连接的设备仍可继续工作。可通过通知区域中的图标打开或退出 DisplayMaster。</value>
+  </data>
+  <data name="Position_Right" xml:space="preserve">
+    <value>我的屏幕右侧</value>
+  </data>
+  <data name="Position_Left" xml:space="preserve">
+    <value>我的屏幕左侧</value>
+  </data>
+  <data name="Position_Above" xml:space="preserve">
+    <value>我的屏幕上方</value>
+  </data>
+  <data name="Position_Below" xml:space="preserve">
+    <value>我的屏幕下方</value>
+  </data>
+  <data name="Transport_Wifi" xml:space="preserve">
+    <value>Wi-Fi</value>
+  </data>
+  <data name="Transport_WifiUdp" xml:space="preserve">
+    <value>Wi-Fi · UDP</value>
+  </data>
+  <data name="Mode_Extend" xml:space="preserve">
+    <value>扩展显示屏</value>
+  </data>
+  <data name="Mode_Mirror" xml:space="preserve">
+    <value>镜像</value>
+  </data>
+  <data name="Mode_Tablet" xml:space="preserve">
+    <value>数位板</value>
+  </data>
+  <data name="Video_Starting" xml:space="preserve">
+    <value>正在启动…</value>
+  </data>
+  <data name="Video_Encoder" xml:space="preserve">
+    <value>{0} 运行于 {1}</value>
+  </data>
+  <data name="Devices_None" xml:space="preserve">
+    <value>未连接任何设备</value>
+  </data>
+  <data name="Devices_One" xml:space="preserve">
+    <value>已连接 1 台设备</value>
+  </data>
+  <data name="Devices_Many" xml:space="preserve">
+    <value>已连接 {0} 台设备</value>
+  </data>
+  <data name="Network_None" xml:space="preserve">
+    <value>无网络连接</value>
+  </data>
+  <data name="Feel_Linear" xml:space="preserve">
+    <value>线性</value>
+  </data>
+  <data name="Feel_Softer" xml:space="preserve">
+    <value>更软 – 轻触即有更多墨迹</value>
+  </data>
+  <data name="Feel_Firmer" xml:space="preserve">
+    <value>更硬 – 用力按压可获得更粗的线条</value>
+  </data>
+  <data name="Fps_UpTo" xml:space="preserve">
+    <value>最高 {0} fps</value>
+  </data>
+  <data name="Fps_30" xml:space="preserve">
+    <value>最高 30 fps（省电）</value>
+  </data>
+  <data name="Scale_Sharp" xml:space="preserve">
+    <value>清晰 – 设备完整分辨率</value>
+  </data>
+  <data name="Scale_Balanced" xml:space="preserve">
+    <value>均衡 – 75 %</value>
+  </data>
+  <data name="Scale_Fast" xml:space="preserve">
+    <value>快速 – 50 %（电脑性能较弱、Wi-Fi 拥堵）</value>
+  </data>
+  <data name="Codec_Auto" xml:space="preserve">
+    <value>自动（推荐）</value>
+  </data>
+  <data name="Codec_H264" xml:space="preserve">
+    <value>H.264（兼容性最好）</value>
+  </data>
+  <data name="Codec_Av1" xml:space="preserve">
+    <value>AV1（适用于最新的 GPU）</value>
+  </data>
+  <data name="About_Version" xml:space="preserve">
+    <value>版本 {0}</value>
+  </data>
+  <data name="Update_Checking" xml:space="preserve">
+    <value>正在检查…</value>
+  </data>
+  <data name="Update_Latest" xml:space="preserve">
+    <value>你当前使用的是最新版本。</value>
+  </data>
+  <data name="Update_Found" xml:space="preserve">
+    <value>版本 {0} 可用，请参见上方的横幅。</value>
+  </data>
+  <data name="Update_Offline" xml:space="preserve">
+    <value>无法访问 GitHub。请检查网络连接后重试。</value>
+  </data>
+  <data name="Update_Available" xml:space="preserve">
+    <value>DisplayMaster {0} 可用（你当前使用的是 {1}）。</value>
+  </data>
+  <data name="Update_NeedsAdmin" xml:space="preserve">
+    <value>此更新需要管理员权限。</value>
+  </data>
+  <data name="Update_Failed" xml:space="preserve">
+    <value>更新失败：{0}</value>
+  </data>
+  <data name="SettingsPage_23.Text" xml:space="preserve">
+    <value>将窗口发送到你的设备</value>
+  </data>
+  <data name="SettingsPage_24.Text" xml:space="preserve">
+    <value>Ctrl + Alt + Win + → 可将活动窗口移到已连接的设备，再移到下一个设备，然后移回。设备也可以通过其快捷栏拉取窗口。</value>
+  </data>
+  <data name="SettingsPage_25.Message" xml:space="preserve">
+    <value>另一个应用已占用 Ctrl + Alt + Win + →，因此该快捷键已关闭。请关闭该应用，然后将此开关关闭后再打开。</value>
+  </data>
+  <data name="SettingsPage_26.Content" xml:space="preserve">
+    <value>导出日志</value>
+  </data>
+  <data name="Export_Done" xml:space="preserve">
+    <value>已将 {0} 保存到桌面。请将其附加到错误报告中。其中包含设备名称和网络地址，但不含密钥，也不含屏幕上的任何内容。</value>
+  </data>
+  <data name="Export_Failed" xml:space="preserve">
+    <value>无法导出日志：{0}</value>
+  </data>
+</root>

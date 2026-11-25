@@ -6,8 +6,8 @@
     xmlns:local="using:DisplayMaster.Views"
     xmlns:services="using:DisplayMaster.Services">
 
-    <ScrollViewer>
-        <StackPanel MaxWidth="1040" Padding="40,28,40,40" Spacing="16">
+    <ScrollViewer HorizontalScrollMode="Disabled" HorizontalScrollBarVisibility="Disabled" HorizontalContentAlignment="Center">
+        <StackPanel MaxWidth="1000" Padding="32,28,32,40" Spacing="16" HorizontalAlignment="Center">
             <TextBlock x:Uid="ConnectionPage_1" Style="{StaticResource TitleTextBlockStyle}" />
 
             <!-- USB -->
